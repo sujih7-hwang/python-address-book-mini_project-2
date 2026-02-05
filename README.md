@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 실행 방법
+##  실행 방법
 1. 파이썬이 설치된 환경에서 SmartPhoneMain.py를 실행합니다.
    - 명령어: python SmartPhoneMain.py
 2. 메뉴(1~7)를 선택하여 주소록 기능을 이용합니다.
