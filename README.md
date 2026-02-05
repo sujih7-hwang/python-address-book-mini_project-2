@@ -4,6 +4,7 @@ dataclass를 활용한 객체지향 기반 연락처 관리 시스템 (CRUD 실�
 # SmartPhone Address Book System
 
 파이썬의 객체지향 프로그래밍(OOP)을 연습하기 위해 제작한 연락처 관리 프로그램입니다.
+
 `dataclass`를 사용하여 데이터 구조를 정의하고, 기능별로 클래스를 분리하여 관리 효율성을 높였습니다.
 
 ## 주요 기능
