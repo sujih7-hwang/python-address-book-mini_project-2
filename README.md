@@ -1,6 +1,3 @@
-# python-address-book-mini_project-2
-dataclass를 활용한 객체지향 기반 연락처 관리 시스템 (CRUD 실습)
-
 # SmartPhone Address Book System
 
 파이썬의 객체지향 프로그래밍(OOP)을 연습하기 위해 제작한 연락처 관리 프로그램입니다.
