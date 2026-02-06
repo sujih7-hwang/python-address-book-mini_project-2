@@ -23,7 +23,7 @@ dataclass를 활용한 객체지향 기반 연락처 관리 시스템 (CRUD 실�
 
 ```bash
 # 1. 저장소 클론 (내 컴퓨터로 코드 복사)
-git clone [https://github.com/sjhwang/python-address-book.git](https://github.com/sjhwang/python-address-book.git)
+git clone https://github.com/sujih7-hwang/python-address-book-mini_project-2.git
 
 # 2. 프로젝트 폴더로 이동
 cd python-address-book
